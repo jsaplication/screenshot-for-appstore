@@ -33,3 +33,7 @@ Redimensionar a imagem `exemplo.png` para os tamanhos da App Store:
 
 ```bash
 node app.js exemplo.png
+```
+
+
+[Link PlayStore gamer](https://play.google.com/store/apps/details?id=com.acerte.js&hl=pt_BR&gl=US)
