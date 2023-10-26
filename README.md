@@ -19,7 +19,8 @@ Este script Node.js permite redimensionar imagens para os tamanhos exigidos pela
    - Para redimensionar uma imagem, execute o script `app.js` e forneça o nome do arquivo como argumento da linha de comando:
 
      ```bash
-     node app.js nomeDoArquivo.png
+     node app.js
+     FileName: exemplo.png
      ```
 
    - O script também pode solicitar o nome do arquivo durante a execução, se nenhum argumento for fornecido.
@@ -32,7 +33,8 @@ Este script Node.js permite redimensionar imagens para os tamanhos exigidos pela
 Redimensionar a imagem `exemplo.png` para os tamanhos da App Store:
 
 ```bash
-node app.js exemplo.png
+node app.js
+FileName: exemplo.png
 ```
 
 
